@@ -1,0 +1,7 @@
+user\_temp\Unnamed
+C:\Users\User\PycharmProjects\ScrapCraftEditor\user\projects\NewProject
+user\_temp\Game_Files
+C:\Users\User\PycharmProjects\ScrapCraftEditor\user\projects\good_name
+user\_temp\gamefiles
+C:\Users\User\PycharmProjects\ScrapCraftEditor\user\projects\game_backup
+C:\Users\User\PycharmProjects\ScrapCraftEditor\user\projects\mymod

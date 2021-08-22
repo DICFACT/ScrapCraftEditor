@@ -1,0 +1,14 @@
+[
+	{
+		"itemId": "1fc74a28-addb-451a-878d-c3c605d63811",
+		"reward": { "tier": "Common" },
+		"quantity": 1,
+		"craftTime": 5,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				"itemId": "1fc74a28-addb-451a-878d-c3c605d63811"
+			}
+		]
+	}
+]
